@@ -12,15 +12,15 @@ Currently, two official plugins are available:
 
 # Create project
 
-- Use Git Bash in terminal:
+- Use `Git Bash` in terminal:
 
   - cd d:
   - cd projects
-  - git clone https://github.com/user-name/repo-name.git
+  - git clone https://github.com/`user-name`/`repo-name`.git
   - dir
-  - mkdir goit //make dirrectory
-  - rm -r goit //remove dirrectory
-  - cd goit-react-hw-01
+  - mkdir goit `dirrectory name` //make dirrectory
+  - rm -r goit `dirrectory name` //remove dirrectory
+  - cd `repo-name`
   - create vite@latest
   - .
   - react
@@ -30,14 +30,17 @@ Currently, two official plugins are available:
   - ctr + C //stop localhost
 
 - Add formating and snippets
-  - VS Code Extentions - ESlint: install
-  - .eslintrc.cjs rules: {'react/prop-types': 0,}
-  - VS Code Extentions - Prettier: install
-  - .prettierrc.json
+
+  - VS Code Extentions - `ESlint`: install
+  - `.eslintrc.cjs`
+  - rules: {'react/prop-types': 0,}
+
+  - VS Code Extentions - `Prettier`: install
+  - `.prettierrc.json`
   - { "printWidth": 80, "useTabs": false, "semi": true, "singleQuote": true,
     "trailingComma": "es5", "bracketSpacing": true, "arrowParens": "avoid",
     "proseWrap": "always" }
-  - VS Code Extentions - ES7+ React/Redux/React-Native snippets: install
+  - VS Code Extentions - `ES7+ React/Redux/React-Native snippets`: install
 
 # Commit Push
 
