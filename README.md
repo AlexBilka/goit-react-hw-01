@@ -1,11 +1,11 @@
-# How to create _REACT_ project
+# How to create REACT project:
 
 ## Use `Git Bash` in terminal:
 
 - **cd d:** _- to change disk_
 - **cd projects** _- to change directory_
 - **git clone** https://github.com/user-name/repo-name.git
-- **dir** //directory list
+- **dir** _- directory list_
 - **mkdir** `dirrectory name` _- to make dirrectory_
 - **rm -r** `dirrectory name` _- to remove dirrectory_
 - **cd** `repo-name`
@@ -30,16 +30,18 @@
 ```
 
 ```
-rules: {
-  'react/prop-types': 0,
-  }
+  rules: {
+    'react/prop-types': 0,
+    }
 ```
 
 - **Prettier**
 
-  `.prettierrc.json`
+```
+  .prettierrc.json
+```
 
-  ```
+```
     {
       "printWidth": 80,
       "useTabs": false,
@@ -50,9 +52,9 @@ rules: {
       "arrowParens": "avoid",
       "proseWrap": "always"
       }
-  ```
+```
 
-- VS Code Extentions - `ES7+ React/Redux/React-Native snippets`
+- **ES7+ React/Redux/React-Native snippets**
 
 **[⬆ back to top](#how-to-create-react-project)**
 
