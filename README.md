@@ -1,6 +1,6 @@
 # How to create REACT project:
 
-## Use `Git Bash` in terminal:
+## Use Git Bash in terminal:
 
 - **cd d:** _- to change disk_
 - **cd projects** _- to change directory_
@@ -60,23 +60,23 @@
 
 ## Commit Push
 
-- git status
-- git add.
-- git commit -m "initial project"
-- git push
+- **git status**
+- **git add .**
+- **git commit -m "initial project"**
+- **git push**
 
 ## Deploy with vercel
 
 - go to [vercel.com](https://vercel.com/signup)
-- signup as like hobby
-- continue with GitHub
-- Install GitHub Account
-- Import Git Repository
+- signup as like **hobby**
+- continue with **GitHub**
+- **Install** GitHub Account
+- **Import** Git Repository
 
 ## Build project (if use other hosts)
 
-- npm run build
-- push dist to host
+- **npm run build**
+- **push dist to host**
 
 ## React developer tools
 
