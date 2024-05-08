@@ -1,27 +1,15 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and
-some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md)
-  uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc)
-  uses [SWC](https://swc.rs/) for Fast Refresh
-
-# Create project
+# How to create a project
 
 - Use `Git Bash` in terminal:
 
-  - cd d:
-  - cd projects
-  - git clone https://github.com/`user-name`/`repo-name`.git
-  - dir
-  - mkdir goit `dirrectory name` //make dirrectory
-  - rm -r goit `dirrectory name` //remove dirrectory
+  - cd d: //change disk
+  - cd projects //change directory
+  - git clone https://github.com/user-name/repo-name.git
+  - dir //directory list
+  - mkdir `dirrectory name` //make dirrectory
+  - rm -r `dirrectory name` //remove dirrectory
   - cd `repo-name`
-  - create vite@latest
+  - npm create vite@latest
   - .
   - react
   - JavaScript
@@ -34,7 +22,6 @@ Currently, two official plugins are available:
   - VS Code Extentions - `ESlint`: install
   - `.eslintrc.cjs`
   - rules: {'react/prop-types': 0,}
-
   - VS Code Extentions - `Prettier`: install
   - `.prettierrc.json`
   - { "printWidth": 80, "useTabs": false, "semi": true, "singleQuote": true,
@@ -51,7 +38,7 @@ Currently, two official plugins are available:
 
 # Deploy with vercel
 
-- https://vercel.com/signup
+- go to [vercel.com](https://vercel.com/signup)
 - signup as like hobby
 - continue with GitHub
 - Install GitHub Account
@@ -62,6 +49,6 @@ Currently, two official plugins are available:
 - npm run build
 - push dist to host
 
-# React developer tools for Chrome
+# React developer tools
 
-- https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?utm_source=ext_app_menu
+- [React developer tools for Chrome](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?utm_source=ext_app_menu)
