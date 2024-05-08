@@ -1,33 +1,45 @@
-# How to create a project
+# How to create _REACT_ project
 
 ## Use `Git Bash` in terminal:
 
-- **cd d:** //change disk
-- **cd projects** //change directory
+- **cd d:** _- to change disk_
+- **cd projects** _- to change directory_
 - **git clone** https://github.com/user-name/repo-name.git
 - **dir** //directory list
-- **mkdir** `dirrectory name` //make dirrectory
-- **rm -r** `dirrectory name` //remove dirrectory
+- **mkdir** `dirrectory name` _- to make dirrectory_
+- **rm -r** `dirrectory name` _- to remove dirrectory_
 - **cd** `repo-name`
 - **npm** create vite@latest
 - **.**
 - **react**
 - **JavaScript**
 - **npm i**
-- **npm run dev** //start localhost
-- **ctr + C** //stop localhost
+- **npm run dev** _- to start localhost_
+- **ctr + C** _- to stop localhost_
 
-## installing formatting and snippets tools
+## Formatting and Snippets tools
 
-- VS Code Extentions - `ESlint`
+### go to VS Code Extentions:
 
-  - `.eslintrc.cjs`
-  - rules: {'react/prop-types': 0,}
+- **code .**
 
-- VS Code Extentions - `Prettier`
+- **ESlint**
 
-  - `.prettierrc.json`
-  - ```
+```
+  .eslintrc.cjs
+```
+
+```
+rules: {
+  'react/prop-types': 0,
+  }
+```
+
+- **Prettier**
+
+  `.prettierrc.json`
+
+  ```
     {
       "printWidth": 80,
       "useTabs": false,
@@ -38,11 +50,11 @@
       "arrowParens": "avoid",
       "proseWrap": "always"
       }
-    ```
+  ```
 
 - VS Code Extentions - `ES7+ React/Redux/React-Native snippets`
 
-**[⬆ back to top](#how-to-create-a-project)**
+**[⬆ back to top](#how-to-create-react-project)**
 
 ## Commit Push
 
@@ -68,4 +80,4 @@
 
 - [React developer tools for Chrome](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?utm_source=ext_app_menu)
 
-**[⬆ back to top](#how-to-create-a-project)**
+**[⬆ back to top](#how-to-create-react-project)**
