@@ -6,9 +6,9 @@
 - **cd projects** _- change directory_
 - **git clone** https://github.com/user-name/repo-name.git
 - **dir** _- directory list_
-- **mkdir** `dirrectory-name` _- make dirrectory_
+- **mkdir** `dirrectory-name` _- make new dirrectory_
 - **rm -r** `dirrectory-name` _- remove dirrectory_
-- **touch** `file-name` _- new file_
+- **touch** `file-name` _- create new file_
 - **rm** `file-name` _- remove file_
 - **cd** `repo-name`
 - **npm create vite@latest**
