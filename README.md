@@ -2,20 +2,22 @@
 
 ## Use Git Bash in terminal:
 
-- **cd d:** _- to change disk_
-- **cd projects** _- to change directory_
+- **cd d:** _- change disk_
+- **cd projects** _- change directory_
 - **git clone** https://github.com/user-name/repo-name.git
 - **dir** _- directory list_
-- **mkdir** `dirrectory name` _- to make dirrectory_
-- **rm -r** `dirrectory name` _- to remove dirrectory_
+- **mkdir** `dirrectory-name` _- make dirrectory_
+- **rm -r** `dirrectory-name` _- remove dirrectory_
+- **touch** `file-name` _- new file_
+- **rm** `file-name` _- remove file_
 - **cd** `repo-name`
-- **npm** create vite@latest
+- **npm create vite@latest**
 - **.**
 - **react**
 - **JavaScript**
 - **npm i**
-- **npm run dev** _- to start localhost_
-- **ctr + C** _- to stop localhost_
+- **npm run dev** _- start localhost_
+- **ctr + C** _- stop localhost_
 
 ## Formatting and Snippets tools
 
