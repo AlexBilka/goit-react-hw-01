@@ -17,7 +17,6 @@
 - **JavaScript**
 - **npm i**
 - **npm run dev** _- start localhost_
-- **ctr + C** _- stop localhost_
 
 ## Formatting and Snippets tools
 
